@@ -21,6 +21,11 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Donations
+- BTC: 0xb0dcc1ed951eca351720064eb7399efaa148a714 (BEP20)
+- ETH: 0xb0dcc1ed951eca351720064eb7399efaa148a714 (BEP20)
+- USDT: TNZYwR8sVeVyg1taNcJxe2yTxsuRxnk6iK (TRC20)
+
 ## Disclaimer
 The Crypto Price Prediction project is created for educational purposes only, and all responsibility for using this project lies with the user. The related predictions should not be considered as information used to influence your financial or investment decisions. It is highly recommended to exercise caution when making investments or determining your financial objectives.
 
